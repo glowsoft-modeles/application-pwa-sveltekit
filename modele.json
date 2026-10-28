@@ -1,0 +1,7 @@
+{
+  "id": "application-pwa-sveltekit",
+  "nom": "Application installable en SvelteKit",
+  "cadriciel": "sveltekit",
+  "categorie": "application",
+  "variables": []
+}
